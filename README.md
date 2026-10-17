@@ -17,3 +17,5 @@ python attendance_test.py
 
 Purpose
 The repository demonstrates Git version control, commits, GitHub synchronization and change tracking for software testing scripts.
+
+Remote update: README edited directly on GitHub
